@@ -1,0 +1,37 @@
+html {
+    background-color: black;
+    color: white;
+}
+h1 {
+    color: red;
+    font-size: 30px;
+    margin-left: 2%;
+}
+form {
+    margin-right: 1%;
+    float: right;
+    font-size: 105%;
+}
+form > input {
+    padding: 10px;
+    border-width: 0px;
+    border-radius: 6px 0px 0px 6px;
+}
+button {
+    padding: 10px;
+    border-width: 0px;
+    border-radius: 0px 6px 6px 0px;
+    background-color: red;
+    margin-left: -6px;
+}
+.imagem {
+    height: 500px;
+}
+button.slick-prev {
+    font-size: 0px;
+    background: transparent;
+}
+button.slick-next {
+    font-size: 0px;
+    background: transparent;
+}
