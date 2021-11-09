@@ -2,6 +2,9 @@ html {
     background-color: black;
     color: white;
 }
+.cabeçalho {
+Font-size: 30px;
+}
 h1 {
     color: red;
     font-size: 30px;
