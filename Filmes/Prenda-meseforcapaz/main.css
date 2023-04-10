@@ -1,0 +1,46 @@
+html {
+    background-color: black;
+    color: white;
+    font-size: 25px;
+}
+.color {
+    color: red;
+}
+.color-1 {
+    color: yellow;
+}
+.titulo {
+    margin-left: 6%;
+    font-size: 50px;
+    font-style: italic;
+}
+.telegram {
+    float: right;
+    height: 50px;
+    margin-right: 5%;
+    padding: 1%;
+}
+.wall {
+    background-image: url(https://th.bing.com/th/id/R.98474d9f277570630c7f0b7b50412303?rik=hp%2foD8VTgmvD3Q&riu=http%3a%2f%2fwallup.net%2fwp-content%2fuploads%2f2016%2f01%2f15775-space-stars.jpg&ehk=jLpf9TXuHHVTEjoq56oqmlMDDASshwjhRUz%2f7qsS07E%3d&risl=&pid=ImgRaw&r=0);
+}
+.imagem {
+    height: 500px;
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.infos {
+    margin-right: 6%;
+    margin-left: 6%;
+    margin-top: 5%;
+}
+.info {
+    color: red;
+}
+.download {
+    text-align: center;
+}
+.info-1 {
+    color: red;
+}
