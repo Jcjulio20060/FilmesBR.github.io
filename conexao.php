@@ -1,9 +1,9 @@
 <?php
 
-$hostname = "localhost";
-$bancodedados = "usuarios";
+$hostname = "containers-us-west-98.railway.app";
+$bancodedados = "railway";
 $usuario = "root";
-$senha = "";
+$senha = "eM7IIYibACErvAAXQcYW";
 
 $conexao = new MySQLi ($hostname, $usuario, $senha, $bancodedados);
 
