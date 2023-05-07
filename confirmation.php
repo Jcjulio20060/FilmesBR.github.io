@@ -86,7 +86,7 @@
         
                 $_SESSION['id'] = $usuario['ID'];
         
-                header("Location: ../Página Principal/index.php");
+                header("Location: Página Principal/index.php");
             } 
             else {
                 $resultado = "Infezlimente o cadastro não deu certo! Tente novamente.";
@@ -98,7 +98,7 @@
     <?php 
     echo $resultado;
     ?>
-    <a href="Register.php" class="tnt">
+    <a href="Register.html" class="tnt">
         Tente novamente
     </a>
 </p>
