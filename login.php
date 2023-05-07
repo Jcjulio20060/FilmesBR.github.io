@@ -27,7 +27,7 @@
         
                 $_SESSION['id'] = $usuario['ID'];
         
-                header("Location: ../Página Principal/pp.php");
+                header("Location: Página Principal/pp.php");
         
             } else {
                 $resultado =  "Falha ao logar! E-mail ou senha incorretos";
