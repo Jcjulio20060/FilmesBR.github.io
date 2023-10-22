@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: lightgray;
+}
+.color-1 {
+    font-family: 'Lobster Two', cursive;
+    color: red;
+}
+.color-2 {
+    font-family: 'Quicksand', sans-serif;
+    color: blue;
+}
+.Cabecalho {
+    width: 100%;
+}
+.icone {
+    float: right;
+    margin-right: 50px;
+    margin-top: 3px;
+}
+.Titulo {
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.cima {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
